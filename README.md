@@ -1,7 +1,8 @@
 # The Geometry of Everything — LaTeX Source Code
 
 > **Status:** Published & Archived (Version 2)
-> **Permanent DOI:** https://doi.org/10.5281/zenodo.22746108,https://doi.org/10.13140/RG.2.2.32763.48166
+> **Permanent DOI:** https://doi.org/10.5281/zenodo.22746108
+> https://doi.org/10.13140/RG.2.2.32763.48166
 > Sayantan, R. (2026). The Geometry of Everything: A Complete Book of Probable Solutions to Fifty-Two Unsolved Problems in Physics from a Single Genus-0 Curve. Zenodo. https://doi.org/10.5281/zenodo.22750014
 > **License:** CC BY-NC-ND (Creative Commons Attribution-NonCommercial-NoDerivatives)
 
